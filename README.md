@@ -1,4 +1,4 @@
-# ij.start.canon
+# ij.start.canon IJ Start Canon Printer - Install Canon IJ Setup
 ij.start.canon All-in-One Printer. Welcome to simple and intuitive printing with the ij.start.canon manual.
 ![image](https://repository-images.githubusercontent.com/507990935/9bd3b7d8-dc0f-4a8f-a4d3-a1c260f97d57)
 # Downloading Procedure of Canon Printer Software:
