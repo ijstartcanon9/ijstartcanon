@@ -1,6 +1,6 @@
 # ij.start.canon
 ij.start.canon All-in-One Printer. Welcome to simple and intuitive printing with the ij.start.canon manual.
-![image](https://user-images.githubusercontent.com/108129105/175996059-708875b2-f24b-4e00-ad03-d99169229131.png)
+![image](https://repository-images.githubusercontent.com/507990935/9bd3b7d8-dc0f-4a8f-a4d3-a1c260f97d57)
 # Downloading Procedure of Canon Printer Software:
 1. Switch on your printer and computer.
 2. Make sure that they are connected to the same wireless network (Applicable for wirelessly enabled printers)
